@@ -1,0 +1,9 @@
+*{
+    box-sizing: border-box
+}
+
+.mainContent {
+    padding: 10px;
+    width: 75%;
+    float: right;
+}

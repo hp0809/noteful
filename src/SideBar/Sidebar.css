@@ -1,0 +1,10 @@
+*{
+    box-sizing: border-box;
+}
+.sidebar {
+    float: left;
+    width: 25%;
+    height:5000px;
+    border-right: 1px solid black;
+    padding:10px;
+}

@@ -1,0 +1,13 @@
+header {
+    text-align: center;
+    padding: 20px;
+    border-bottom: 1px solid black 
+  }
+
+  .headerLink {
+    text-decoration: none;
+}
+
+.headerLink:visited {
+    color: black;
+}
